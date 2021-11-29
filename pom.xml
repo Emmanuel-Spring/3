@@ -7,6 +7,7 @@
   <name>TalentycoProject</name>
   <description>Template de proyecto multi-módulo</description>
   
+  
   	<modules>
 		<module>TalentycoCommon</module>
 		<module>TalentycoWebParent</module>
